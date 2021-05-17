@@ -1,6 +1,8 @@
-点击体验→ <https://xuebihua.cn>
+体验→ <https://zxdic.com/bihua> 我这里是搬砖修改为自用。
 
-![xuebihua_qr](https://github.com/lmm214/xuebihua/blob/master/xuebihua_qr.png)
+项目来源：<https://github.com/lmm214/xuebihua/>
+
+原描述：
 
 刷着阮一峰的 weekly 看到了 [Hanzi Writer](https://chanind.github.io/hanzi-writer/cn/) 这个项目，发现笔顺的动画比较自然，还能在 svg 上手写练习，最重要的是看看 demo 好像上手比较简单，实际也如此。功能代码非常好使，基本折腾在界面和陌生的代码上，比如想让 svg 自适应，搜索测试一晚发现还是以下代码好使：
 
